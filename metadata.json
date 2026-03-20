@@ -1,0 +1,5 @@
+{
+  "name": "Tiangong V2.0 Meteorological Dashboard",
+  "description": "A high-fidelity meteorological GIS dashboard for national weather monitoring and command implementation.",
+  "requestFramePermissions": []
+}
